@@ -11,11 +11,11 @@
 }
 
 .header-section {
-  background: url(../../assets/img/e.jpg);
+  background: url(../../assets/img/homeBanner.jpg);
 }
 
 .paralax {
-  background-image: url("../../assets/img/a.jpg");
+  background: url("../../assets/img/a.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
